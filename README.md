@@ -197,9 +197,9 @@ Cada projeto tem sua própria pasta com:
 
 ## 🔗 Links Importantes
 
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
-- 🐙 [GitHub](https://github.com/seu-usuario)
-- 📧 Email: seu-email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/francisco-jefferson-batista-honorato)
+- 🐙 [GitHub](https://github.com/FranciscoHonorat)
+- 📧 Email: jeffhonorato230@gmail.com
 
 ---
 
